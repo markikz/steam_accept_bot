@@ -1,0 +1,9 @@
+//Нужно если заливать на heroku.com
+{
+  "name": "",
+  "description": "Node.js",
+  "repository": "",
+  "logo": "",
+  "keywords": ["node"],
+  "image": ""
+}

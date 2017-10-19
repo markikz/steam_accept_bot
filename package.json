@@ -1,0 +1,22 @@
+//Нужно, если заливать на heroku.com
+{
+  "name": "", 
+  "version": "0.2.5",
+  "description": "",
+  "engines": {
+    "node": "4.1.1"
+  },
+  "main": "bot.js",
+  "dependencies": {
+    "ejs": "2.4.1",
+    "express": "4.13.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "node"
+  ],
+  "license": "MIT"
+}
